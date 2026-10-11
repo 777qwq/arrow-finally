@@ -1,0 +1,9 @@
+Package: com.andyching.ipadarrowcursor
+Name: 箭头指针
+Version: 0.3.0
+Architecture: iphoneos-arm
+Description: 基于andyching开源代码修改编译；将 iPadOS 默认小圆点换成 macOS 风格箭头。安装完重启用户空间生效，不是注销。
+Maintainer: 777qwq
+Author: 777qwq
+Section: Tweaks
+Depends: firmware (>= 15.0), ellekit
