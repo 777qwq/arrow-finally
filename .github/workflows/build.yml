@@ -1,7 +1,7 @@
 name: Build ArrowFinally 0.2.5
 on:
   push:
-    branches: [ cloud/0.2.5 ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
